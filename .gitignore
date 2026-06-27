@@ -1,0 +1,7 @@
+# .gitignore file
+__pycache__/
+.idea/
+.claude
+.venv
+ns-nast
+ns.sh
