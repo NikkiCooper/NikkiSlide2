@@ -1,9 +1,13 @@
 #!/usr/bin/env python3
+#  test_status_display.py Copyright (c) 2026 Nikki Cooper
+#
+#  This program and the accompanying materials are made available under the
+#  terms of the GNU Lesser General Public License, version 3.0 which is available at
+#  https://www.gnu.org/licenses/gpl-3.0.html#license-text
+#
 """
-test_status_display.py  —  NikkiSlide2 StatusDisplay tuning tool
-Copyright (c) 2025 Nikki Cooper  (same licence as the project)
-
-Standalone, single-file.  Only external dependency: pygame.
+test_status_display.py is a single-file standalone tuning tool.
+Only external dependency: pygame.
 
 Purpose
 -------
@@ -44,7 +48,7 @@ import pygame
 _STATE_IDLE    = 'idle'
 _STATE_SHOWING = 'showing'
 _STATE_PAUSED  = 'paused'
-
+w
 _DODGER_BLUE  = ( 30, 144, 255)
 _SHADOW_COLOR = (  0,   0,  40)
 _BOX_BG       = (  0,   0,   0, 160)
